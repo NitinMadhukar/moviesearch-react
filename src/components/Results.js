@@ -12,4 +12,5 @@ function Results ({ results, openPopup }) {
 	)
 }
 
+
 export default Results
